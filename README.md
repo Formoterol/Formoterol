@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello,it's **Formoterol** here.
+### This is an junior developer from **China**.
+- 🌱 I’m currently learning docker golang kubernetes kali linux.
+- 🔭 I’m currently working on bank.
+- 💬 Ask me about Everything.
+- 📫 You may reach me via twitter.
+- ⚡ Dream to realize **General artificial intelligence**.
 
 <!--
 **Formoterol/Formoterol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
